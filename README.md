@@ -51,9 +51,10 @@
 
 <br/>
 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeuLeonardo&theme=midnight_purple)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeuLeonardo&theme=midnight_purple)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeuLeonardo&theme=midnight_purple)
+  
   
 </details>
 
