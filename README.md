@@ -1,26 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=c147e9">
 
-<table>
-  <tr>
-    <td>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=E0B0FF&width=435&lines=Ol%C3%A1!+Me+chamo+Matheus+Leonardo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=E0B0FF&width=435&lines=Ol%C3%A1!+Me+chamo+Matheus+Leonardo"/>
 </a>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNIT-PE  
-- 🚀 Participante do programa Embarque Digital  
-- 💻 Apaixonado por tecnologia, sempre buscando aprender e evoluir na área  
-- 🧠 Em constante desenvolvimento pessoal e profissional  
+<img src="https://cdn.discordapp.com/attachments/1007682144899960845/1397002226198773811/output-onlinegiftools_2.gif?ex=68802335&is=687ed1b5&hm=ff41b30b6b5b63995f3708e78f59fc52b1853eb738c357873e394b7f506ea6a1&" 
+     width="300px" align="right" style="float: right;" />
 
-</td>
-<td align="right">
 
-<img src="https://cdn.discordapp.com/attachments/1007682144899960845/1387218159567765556/aaaaaaaa-unscreen.gif?ex=687f7ad6&is=687e2956&hm=01020d42870f3f0bf40e993362b7e1508e495c2ff1b6a97e8ca594c34fa9ee17&" width="200px" />
-
-</td>
-  </tr>
-</table>
+<div>
+  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNIT-PE</p>
+  <p>🚀 Participante do programa Embarque Digital</p>
+  <p>💻 Apaixonado por tecnologia, sempre buscando aprender e evoluir na área</p>
+  <p>🧠 Em constante desenvolvimento pessoal e profissional</p>
+</div>
 
 <h2>📖 Tecnologias e Ferramentas</h2>
   <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" /> 
