@@ -5,7 +5,7 @@
 </a>
 
 <img src="https://cdn.discordapp.com/attachments/1007682144899960845/1397002226198773811/output-onlinegiftools_2.gif?ex=68909df5&is=688f4c75&hm=ca4c0fb4b9163d4e7af601cc508e9d21160e904608741c6deeac6363a47e7f5f&" 
-     width="400px" align="right" style="float: right;" />
+     width="300px" align="right" style="float: right;" />
 
 
 <div>
