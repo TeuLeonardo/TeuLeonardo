@@ -27,6 +27,10 @@
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleoo/)
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teuuleonardo/)
 
+<h2>Stats</h2>
+
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeuLeonardo&theme=midnight_purple) 
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeuLeonardo/TeuLeonardo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TeuLeonardo/TeuLeonardo/github-contribution-grid-snake-dark.svg">
