@@ -31,7 +31,7 @@
 
 <h2>Stats</h2>
 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuLeonardo&theme=tokyonigh&hide_border=false&count_private=true&layout=compact"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuLeonardo&theme=tokyonight&hide_border=false&count_private=true&layout=compact"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeuLeonardo/TeuLeonardo/output/github-contribution-grid-snake-dark.svg">
