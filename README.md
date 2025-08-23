@@ -4,32 +4,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&pause=1000&color=E0B0FF&width=435&lines=Ol%C3%A1!+Me+chamo+Matheus+Leonardo"/>
 </a>
 
-<img src="https://cdn.discordapp.com/attachments/1007682144899960845/1397002226198773811/output-onlinegiftools_2.gif?ex=68909df5&is=688f4c75&hm=ca4c0fb4b9163d4e7af601cc508e9d21160e904608741c6deeac6363a47e7f5f&" 
+<img src="https://i.imgur.com/eZ5CqMg.gif" 
      width="300px" align="right" style="float: right;" />
 
 
 <div>
-  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNIT-PE</p>
+  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas pela UNIT-PE, atualmente 3° Período.</p>
   <p>🚀 Participante do programa Embarque Digital</p>
   <p>💻 Apaixonado por tecnologia, sempre buscando aprender e evoluir na área</p>
-  <p>🧠 Em constante desenvolvimento pessoal e profissional</p>
+  <p>😼 Fã de gatos e música!</p>
 </div>
 
-<h2>📖 Tecnologias e Ferramentas</h2>
+</br>
+
+# 📖 Tecnologias e Ferramentas
   <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" /> </p>
   
-<h2>Contatos</h2>
+# Contatos
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusleoo/)
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teuuleonardo/)
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.leodev@gmail.com)
    
 
-<h2>Stats</h2>
+# Stats
 
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeuLeonardo&theme=midnight_purple"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeuLeonardo&theme=tokyonight&hide_border=false&count_private=true&layout=compact"/>
 
